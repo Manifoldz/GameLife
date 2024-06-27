@@ -9,7 +9,7 @@
 
 * To start the game - use `make build` and after `make start`.
 
-### ⚙️ It is possible to customize the size of the playing field
+### ⚙️ It is possible to customize the game
 
 * WIDTH_FIELD - field width
 * HEIGHT_FIELD - field height
